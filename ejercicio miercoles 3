@@ -1,0 +1,89 @@
+print("\nEjercicio 3: ¿Cuánto escucho a mi artista favorito?")
+print("\nMI ARTISTA FAVORITO\n")
+
+artista = "ROA"
+canciones_por_dia = 25
+duracion_promedio = 3.5  # minutos por canción
+
+minutos_dia = canciones_por_dia * duracion_promedio
+minutos_anio = minutos_dia * 365
+horas_anio = minutos_anio / 60
+dias_anio = horas_anio / 24
+
+print(f"Escuchas a {artista} {minutos_dia} minutos al día")
+print(f"Al año son {minutos_anio} minutos")
+print(f"Eso equivale a {horas_anio:.1f} horas")
+print(f"¡O sea {dias_anio:.1f} días completos escuchando a {artista}!\n")
+
+
+print("\nEjercicio 3: ¿Cuánto escucho a mi artista favorito?")
+print("\nMI ARTISTA FAVORITO\n")
+
+artista = "ANUEL"
+canciones_por_dia = 25
+duracion_promedio = 3.5  # minutos por canción
+
+minutos_dia = canciones_por_dia * duracion_promedio
+minutos_anio = minutos_dia * 365
+horas_anio = minutos_anio / 60
+dias_anio = horas_anio / 24
+
+print(f"Escuchas a {artista} {minutos_dia} minutos al día")
+print(f"Al año son {minutos_anio} minutos")
+print(f"Eso equivale a {horas_anio:.1f} horas")
+print(f"¡O sea {dias_anio:.1f} días completos escuchando a {artista}!\n")
+
+
+print("\nEjercicio 3: ¿Cuánto escucho a mi artista favorito?")
+print("\nMI ARTISTA FAVORITO\n")
+
+artista = "BAD BUNNY"
+canciones_por_dia = 25
+duracion_promedio = 3.5  # minutos por canción
+
+minutos_dia = canciones_por_dia * duracion_promedio
+minutos_anio = minutos_dia * 365
+horas_anio = minutos_anio / 60
+dias_anio = horas_anio / 24
+
+print(f"Escuchas a {artista} {minutos_dia} minutos al día")
+print(f"Al año son {minutos_anio} minutos")
+print(f"Eso equivale a {horas_anio:.1f} horas")
+print(f"¡O sea {dias_anio:.1f} días completos escuchando a {artista}!\n")
+
+
+print("\nEjercicio 3: ¿Cuánto escucho a mi artista favorito?")
+print("\nMI ARTISTA FAVORITO\n")
+
+artista = "JHAYCO"
+canciones_por_dia = 25
+duracion_promedio = 3.5  # minutos por canción
+
+minutos_dia = canciones_por_dia * duracion_promedio
+minutos_anio = minutos_dia * 365
+horas_anio = minutos_anio / 60
+dias_anio = horas_anio / 24
+
+print(f"Escuchas a {artista} {minutos_dia} minutos al día")
+print(f"Al año son {minutos_anio} minutos")
+print(f"Eso equivale a {horas_anio:.1f} horas")
+print(f"¡O sea {dias_anio:.1f} días completos escuchando a {artista}!\n")
+
+
+print("\nEjercicio 3: ¿Cuánto escucho a mi artista favorito?")
+print("\nMI ARTISTA FAVORITO\n")
+
+artista = "ALVARO DIAZ"
+canciones_por_dia = 25
+duracion_promedio = 3.5  # minutos por canción
+
+minutos_dia = canciones_por_dia * duracion_promedio
+minutos_anio = minutos_dia * 365
+horas_anio = minutos_anio / 60
+dias_anio = horas_anio / 24
+
+print(f"Escuchas a {artista} {minutos_dia} minutos al día")
+print(f"Al año son {minutos_anio} minutos")
+print(f"Eso equivale a {horas_anio:.1f} horas")
+print(f"¡O sea {dias_anio:.1f} días completos escuchando a {artista}!\n")
+

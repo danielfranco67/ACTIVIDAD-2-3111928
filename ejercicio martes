@@ -1,0 +1,27 @@
+
+print("\nActividad 2: Ejercicios del martes")
+print("\nNombre: Daniel Franco   Matrícula: 3111928")
+
+print("\nEjercicio 1: Mi perfil gamer")
+gamertag = "jlfranco021"
+edad = 18
+juego_favorito = "Fortnite" 
+nivel = 267
+horas_jugadas = 8900
+es_main_soporte = False
+
+print("\n*** MI PERFIL GAMER ***")
+print("Gamertag:", gamertag)
+print("Edad:", edad)
+print("Juego favorito:", juego_favorito)
+print("Nivel:", nivel)
+print("Horas jugadas:", horas_jugadas)
+print("¿Main de soporte?:", es_main_soporte)
+
+print("\nTIPOS DE DATO DE MI PERFIL GAMER")
+print(type(gamertag))
+print(type(edad))
+print(type(juego_favorito))
+print(type(nivel))
+print(type(horas_jugadas))
+print(type(es_main_soporte))
